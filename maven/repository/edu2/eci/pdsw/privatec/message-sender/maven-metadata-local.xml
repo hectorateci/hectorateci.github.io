@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu2.eci.pdsw.privatec</groupId>
+  <artifactId>message-sender</artifactId>
+  <versioning>
+    <release>ls</release>
+    <versions>
+      <version>ls</version>
+    </versions>
+    <lastUpdated>20160224151032</lastUpdated>
+  </versioning>
+</metadata>
