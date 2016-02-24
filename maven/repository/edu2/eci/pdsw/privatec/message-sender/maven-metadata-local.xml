@@ -3,10 +3,11 @@
   <groupId>edu2.eci.pdsw.privatec</groupId>
   <artifactId>message-sender</artifactId>
   <versioning>
-    <release>ls</release>
+    <release>1.0</release>
     <versions>
       <version>ls</version>
+      <version>1.0</version>
     </versions>
-    <lastUpdated>20160224151032</lastUpdated>
+    <lastUpdated>20160224151851</lastUpdated>
   </versioning>
 </metadata>
