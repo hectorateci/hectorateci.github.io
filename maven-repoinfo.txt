@@ -1,0 +1,7 @@
+    
+    <repositories>
+        <repository>
+            <id>Internal repository</id>
+            <url>http://hectorateci.github.io/maven/repository</url>
+        </repository>
+    </repositories>
